@@ -14,6 +14,6 @@ I am a Ph.D. candidate in Computer and Information Science and Engineering (CISE
 
 I received an M.S. in Computer & Information Science from [Syracuse University](https://www.syracuse.edu/) in 2020, and a B.S. in Software Engineering from [Hubei University](http://www.hubu.edu.cn) in 2019.
 
-I am actively seeking **Summer 2024 internship** opportunities in roles such as **Software Development Engineer(SDE)** or **Developer/Security Analyst in Blockchain**. If there are any available positions, please feel free to reach out to me via [email](mailto:hizyx97@gmail.com).
+I am actively seeking **full-time opportunities starting Summer 2026** in roles such as **Software Development Engineer(SDE)**, **Machine Learning Engineer(MLE)**, or **Blockchain Security Engineer/Researcher**. If your team is hiring, please feel free to reach out to me via [email](mailto:hizyx97@gmail.com).
 
 
