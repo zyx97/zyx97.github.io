@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Personal homepage of Yuxuan Zhou (周宇轩)"
+title: "Personal homepage of Yuxuan Zhou (周宇轩)"
 author_profile: true
 redirect_from: 
   - /about/
