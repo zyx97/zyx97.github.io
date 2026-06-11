@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+<br>
+
 Welcome to my formerly serious academic homepage!
 
 I recently defended my Ph.D. at Syracuse University and traded my student badge for a full-time role in the tech industry. 
