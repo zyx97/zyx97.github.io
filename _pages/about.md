@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: Hey, I'm Yuxuan 👋
 excerpt: "Personal homepage of Yuxuan Zhou (周宇轩)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hey, I'm Yuxuan 👋
 
 Welcome to my formerly very serious academic homepage!
 
