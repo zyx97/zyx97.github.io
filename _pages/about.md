@@ -13,6 +13,8 @@ I recently defended my Ph.D. at Syracuse University and traded my student badge 
 
 Since I am off on this new adventure, this page is officially in chill mode and won't get updated much. However, my inbox is always open! If you want to chat, collaborate, or just reach out, please send me an email — current unread count: <span style="font-family: ui-monospace, 'SF Mono', Consolas, monospace;">0</span>.
 
+<span style="background:#e0245e; color:#fff; border-radius:999px; padding:0.1em 0.55em; font-weight:600; font-size:0.85em;">0</span>.
+
 
 
 
