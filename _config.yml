@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxuan Zhou(周宇轩)"
+title                    : "Yuxuan Zhou (周宇轩)"
 title_separator          : "-"
 name                     : &name "Yuxuan Zhou"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuxuan Zhou"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. candidate in Computer Science at Syracuse University."
-  location         : "Syracuse, NY"
+  bio              : "Ph.D. in Computer Science, Syracuse University | Security, Integrity, Blockchain."
+  location         : "San Francisco Bay Area"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
