@@ -1,19 +1,18 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+excerpt: "Personal homepage of Yuxuan Zhou (周宇轩)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome!
+Welcome to my formerly very serious academic homepage!
 ======
-I am a Ph.D. candidate in Computer and Information Science and Engineering (CISE) and a research assistant in FullStack Security Lab([FSSL](http://tristartom.github.io/members.html)) at [Syracuse University](https://www.syracuse.edu/) since Fall 2021. I am honored to be advised by [Dr. Yuzhe (Richard) Tang](http://tristartom.github.io/). My research interests lie in Blockchain Security.
+I recently defended my Ph.D. at Syracuse University and traded my student badge for a full-time role in the tech industry. 
 
-I received an M.S. in Computer & Information Science from [Syracuse University](https://www.syracuse.edu/) in 2020, and a B.S. in Software Engineering from [Hubei University](http://www.hubu.edu.cn) in 2019.
+Since I am off on this new adventure, this page is officially in chill mode and won't get updated much. However, my inbox is always open! If you want to chat, collaborate, or just reach out, please send me an email — current unread count: <span style="font-family: ui-monospace, 'SF Mono', Consolas, monospace;">0</span>.
 
-I am actively seeking **full-time opportunities starting Summer 2026** in roles such as **Software Development Engineer(SDE)**, **Machine Learning Engineer(MLE)**, or **Blockchain Security Engineer/Researcher**. If your team is hiring, please feel free to reach out to me via [email](mailto:hizyx97@gmail.com).
+
 
 
