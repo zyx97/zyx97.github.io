@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <br>
-<br>
 
 Welcome to my formerly serious academic homepage!
 
